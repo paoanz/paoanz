@@ -1,5 +1,5 @@
 <!-- BANNER -->
-<h1 align="center">💜 Hola, soy [Dana Paola Anzaldo Allende]</h1>
+<h1 align="center">💜 Hola, soy Dana Paola Anzaldo Allende</h1>
 <h3 align="center">Ingeniería | Tecnología | Innovación</h3>
 
 <p align="center">
